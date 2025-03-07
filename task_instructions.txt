@@ -1,3 +1,31 @@
+CORE things i can do
+	CONTEXT
+		- User: “Telegram deposit issues in the previous month?”
+		- Chatbot: (returns stats)
+		- User: “What about LiveChat?”
+		- (The chatbot should recall that the user is interested in "deposit issues in the previous month" and only change the source to LiveChat.)
+	TIME
+	- da cas ni samo last, ampak tudi range
+
+BONUS things i can do
+	GRAPH
+	- (Bonus) Detect spikes in a specific category within a given timeframe (i.e., identify when an issue started escalating).
+	- Identify and highlight patterns or trends over time (e.g., seasonal spikes in certain categories).
+	INTELIGENCE
+	- Detect or handle messages that could reasonably fall into multiple categories.
+	UI
+	- Implement a simple interface for chatbot interactions rather than a purely terminal-based interface.
+	- file z že sortiranimi texti
+
+
+
+
+
+
+
+
+
+
 -------------
 Overview.   |
 -------------
@@ -40,7 +68,7 @@ Conversational Memory
 
 --------------
 Requirements.|
---------------
+-------
 
 Classification:
 	- Implement a method to categorize the messages.
