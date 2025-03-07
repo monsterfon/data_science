@@ -7,15 +7,20 @@ CORE things i can do
 	TIME
 	- da cas ni samo last, ampak tudi range
 
+	INTELIGENCE
+	- Detect or handle messages that could reasonably fall into multiple categories.
+
+	UI
+	- Implement a simple interface for chatbot interactions rather than a purely terminal-based interface.
+
 BONUS things i can do
+	- file z že sortiranimi texti
+
 	GRAPH
 	- (Bonus) Detect spikes in a specific category within a given timeframe (i.e., identify when an issue started escalating).
 	- Identify and highlight patterns or trends over time (e.g., seasonal spikes in certain categories).
-	INTELIGENCE
-	- Detect or handle messages that could reasonably fall into multiple categories.
-	UI
-	- Implement a simple interface for chatbot interactions rather than a purely terminal-based interface.
-	- file z že sortiranimi texti
+	
+
 
 
 
