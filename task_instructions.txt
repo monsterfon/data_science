@@ -14,13 +14,14 @@ CORE things i can do
 	- Implement a simple interface for chatbot interactions rather than a purely terminal-based interface.
 	
 	- file z že sortiranimi texti
-
-	
-BONUS things i can do
 	
 	GRAPH
-	- (Bonus) Detect spikes in a specific category within a given timeframe (i.e., identify when an issue started escalating).
-	- Identify and highlight patterns or trends over time (e.g., seasonal spikes in certain categories).
+		- (Bonus) Detect spikes in a specific category within a given timeframe (i.e., identify when an issue started escalating).
+		- Identify and highlight patterns or trends over time (e.g., seasonal spikes in certain categories).
+
+BONUS things i can do
+	
+	
 	
 
 
